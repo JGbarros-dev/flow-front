@@ -1,0 +1,17 @@
+{
+  "name": "FlowDock Motorista",
+  "short_name": "FlowDock",
+  "description": "Agende, acompanhe sua posição na fila virtual e saiba quando seguir para a doca em Suape.",
+  "lang": "pt-BR",
+  "start_url": "/motorista/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
